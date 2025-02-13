@@ -17,7 +17,7 @@ const Carousel = ({ autoSlide = true, slideInterval = 3000 }) => {
     },
     {
       id: 3,
-      image: 'https://www.maxlab.co.in/category/1668233331.jpg  ',
+      image: 'https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43HXCNftVJVttoo4ucl7rsMASXW3Xr6GlXURCubE1tA=w3840-h2160-rw',
       alt_text: 'Slide 3',
     },
   ]);
